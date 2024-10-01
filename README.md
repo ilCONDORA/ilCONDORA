@@ -1,23 +1,27 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 💫 About Me:
+🔭 I’m currently working on a set of guides for Flutter, Dart, and various programs.<br>🤝 I’m looking for help with creating these guides.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🔭 I’m developing Flutter software for all platforms.
-- 📝 I’m writing a set of guides for Flutter because I’m tired of searching through a myriad of tutorials.
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<a href="https://github.com/ilCONDORA/ilCONDORA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilCONDORA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ilCONDORA's GitHub Stats" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/ilCONDORA/ilCONDORA">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilCONDORA&theme=dark" alt="ilCONDORA's GitHub Streak" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-condorelli) 
 
-### 👨‍💻 Cool Repositories
-<a href="https://github.com/ilCONDORA/Ultimate-Set-of-Guides-for-Flutter-and-Dart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilCONDORA&repo=Ultimate-Set-of-Guides-for-Flutter-and-Dart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ilCONDORA/Wireless-Debugging-Devices-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilCONDORA&repo=Wireless-Debugging-Devices-Manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ilCONDORA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ilCONDORA&theme=dark&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ilCONDORA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ilCONDORA&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ilCONDORA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ilcondora) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
